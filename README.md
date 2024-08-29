@@ -5,7 +5,7 @@ This script is used to directly get ip of all network interface card in your pc
 you can directly ru it by executing bash 
 
 by adding it to enviromental variable
-and placing ip.py in root://User//[user name]//[place file here] 
+and placing ip.py in root://User//[user name]//ip.py
 
 
 
